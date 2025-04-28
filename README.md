@@ -1,1 +1,1 @@
-telegram channel : code_hub
+telegram channel : @pycode_hub
